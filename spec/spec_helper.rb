@@ -1,0 +1,1 @@
+require 'coub_api'
